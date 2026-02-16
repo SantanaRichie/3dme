@@ -4,7 +4,7 @@ const products = [
     name: "Replacement 1 inch Wire Shelf Clips",
     price: 5.00,
     image: "../images/shelf-clip.png", // Ensure you add this image to your images folder
-    images: ["../images/shelf-clip.png", "https://via.placeholder.com/400x300?text=Side+View", "https://via.placeholder.com/400x300?text=Top+View"],
+    images: ["../images/shelf-clip.png", "../images/stl_view.png", "https://via.placeholder.com/400x300?text=Top+View"],
     description: "Sturdy replacement clips for standard 1-inch wire shelving units. 240-degree wrap for secure fit.",
     attribution: "Design by TRyanRogers1 (CC-BY-NC-SA)"
   },
@@ -13,7 +13,7 @@ const products = [
     name: "Acer R241Y Vesa Mount Adapter",
     price: 15.00,
     image: "../images/vesa-adapter.png",
-    images: ["../images/vesa-adapter.png", "https://via.placeholder.com/400x300?text=Mount+Plate", "https://via.placeholder.com/400x300?text=Installed"],
+    images: ["../images/vesa-adapter.png", "../images/5.jpg", "https://via.placeholder.com/400x300?text=Installed"],
     description: "VESA mount adapter for Acer R241Y monitors. Includes mounting plate compatibility.",
     attribution: "Design by kreitnm (CC-BY-NC-SA)"
   },
